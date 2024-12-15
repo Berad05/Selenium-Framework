@@ -1,0 +1,11 @@
+{
+  "firstname": "vaibhav",
+  "lastname": "berad",
+  "email": "vaibhav.berad@pop.com",
+  "password": "vaibhav123",
+  "street": "903040 street address",
+  "city": "newyork",
+  "zip": "345627",
+  "passengerCount": "2",
+  "expectedPrice": "$1169 USD"
+}

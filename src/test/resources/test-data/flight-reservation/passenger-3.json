@@ -1,0 +1,11 @@
+{
+  "firstname": "karan",
+  "lastname": "thapar",
+  "email": "karan.thapar@1424.com",
+  "password": "karan",
+  "street": "vidhyanagr armori",
+  "city": "Gadchiroli",
+  "zip": "313",
+  "passengerCount": "3",
+  "expectedPrice": "$1753 USD"
+}
